@@ -7,7 +7,6 @@
 [*] Bernie Ampa
 [*] Kim Gallego
 [*] Princess Sarah Lunar
-[*] Ysobelle Bergado
 [*] Joemari Estabaya 
 [*] Alwin Bergado
 [*] Sean Christtein Clavines
@@ -15,4 +14,5 @@
 [*] Rave Ian Dela Cruz
 [*] Mike Ayien Baculot
 [*] Paul Aldren Araña
+{*} Renato E. Aggarao Jr.
 ----- END -----
