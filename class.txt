@@ -1,6 +1,7 @@
 -----BSCS 3A-----
 
 ----- BEGIN -----
+{*} Jayr Aggarao
 [*] King Lawrence
 [*] Deffrey Josh Austria
 [*] Ronce Peijen Alajar
